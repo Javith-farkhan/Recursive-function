@@ -28,9 +28,9 @@ Step 8:
 End of the program.
 ## Program:
 
-> Developed By : Subramaniya Pillai B
+> Developed By : Javith Farkhan
 
-> Register Number : 212221230109
+> Register Number : 212221240017
 
 ```
 using System;
